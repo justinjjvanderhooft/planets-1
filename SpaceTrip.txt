@@ -1,5 +1,5 @@
 # Space exploration mission
 We will need
  - A capitan:
- - A cook:Dewi
+ - A cook:Dewi, Rob
  - A cleaner: 
